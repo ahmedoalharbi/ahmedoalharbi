@@ -40,20 +40,9 @@ Software Developer & IT Solutions Consultant helping businesses thrive through *
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedoalharbi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedoalharbi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ahmedoalharbi/ask-docs">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedoalharbi&repo=ask-docs&theme=tokyonight&hide_border=true" alt="AskDocs" />
-  </a>
-</p>
+- 🤖 **[AskDocs](https://github.com/ahmedoalharbi/ask-docs)** — a minimal RAG assistant that answers questions from your own documents (Arabic/English, works locally with Ollama or the OpenAI API).
 
 ## 📫 Connect With Me
 
